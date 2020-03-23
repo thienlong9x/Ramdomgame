@@ -1,2 +1,0 @@
-# Ramdomgame
-the first app
